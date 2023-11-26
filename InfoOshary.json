@@ -1,0 +1,82 @@
+{
+    WBUI2: {
+        settings: {
+            OpenButton: 0,
+            HideIcon: false,
+            HideIconAfter: 30,
+            IconURL: "https://i.imgur.com/6PntT9S.png",
+            DisableIconText: false,
+            IconPosition: 0,
+            IconTextColor: 0,
+            OpenOnStart: true,
+            OpenOnStartOnlyNewPlayers: true,
+            UpdateInterval: 12
+        },
+        tabs: [
+            {
+            tab1: {
+                layout: 1,
+                buttontext: "Bienvenidos",
+                title1: "Oshary Games - Ark Survival Acended",
+                text1: "Les damos la bienvenida a nuestra servidor privado de Ark Survival Ascended.
+                        
+                [RATES]
+                Farming               : 5x
+                Taming                : 10x
+                Breeding              : 15x
+                Exp                   : 2x
+    
+                [CONFIG]
+                Player per tribe      : 5
+                Alliances             : 0
+                Max Player Level      : 105
+                Max Wild Dinos Level  : 150
+   
+                [ORP]
+                ORP: Offline Raid Protection
+                La protección se activa despues de 30 minutos, cuando no exista jugadores conectados en una tribu.",
+                imageurl: "https://i.imgur.com/sgvY3Sz.png"               
+                }
+            },
+            {
+            tab2: {
+                layout: 2,
+                buttontext: "Shop",
+                title1: "Ark Shop",
+                text1: "Puedes visualizar el SHOP dentro del juego, presionando F2.
+                
+                Obtienes 10 Puntos por cada 10 minutos de conexión en el juego.
+                
+                Tambien puedes comprar Puntos en nuestra web, el link se encuentra en la parte inferior.",
+                imageurl: "https://i.imgur.com/sgvY3Sz.png"
+                }
+            }
+        ],
+        links: [
+            {
+                link1: {
+                    text: "Discord",
+                    url: "https://discord.gg/SE6UYmuDPz"
+                }
+            },
+            {
+                link2: {
+                    text: "Comprar PUNTOS",
+                    url: "https://ark.osharygames.com/"
+                }
+            },
+            {
+                link3: {
+                    text: "TikTok",
+                    url: "https://www.tiktok.com/@osharygames"
+                }
+            },
+            {
+                link4: {
+                    text: "Youtube",
+                    url: "https://www.youtube.com/@osharygames"
+                }
+            }
+        ]
+    }
+}
