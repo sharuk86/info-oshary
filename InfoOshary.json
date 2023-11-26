@@ -18,23 +18,7 @@
                 "layout": 1,
                 "buttontext": "Bienvenidos",
                 "title1": "Oshary Games - Ark Survival Acended",
-                "text1": "Les damos la bienvenida a nuestra servidor privado de Ark Survival Ascended.
-                
-                [RATES]
-                Farming               : 5x
-                Taming                : 10x
-                Breeding              : 15x
-                Exp                   : 2x
-    
-                [CONFIG]
-                Player per tribe      : 5
-                Alliances             : 0
-                Max Player Level      : 105
-                Max Wild Dinos Level  : 150
-   
-                [ORP]
-                ORP: Offline Raid Protection
-                La protección se activa despues de 30 minutos, cuando no exista jugadores conectados en una tribu.",
+                "text1": "Les damos la bienvenida a nuestra servidor privado de Ark Survival Ascended.\n\n[RATES]\nFarming               : 5x\nTaming                : 10x\nBreeding              : 15x\nExp                   : 2x\n\n[CONFIG]\nPlayer per tribe      : 5\nAlliances             : 0\n Max Player Level      : 105\nMax Wild Dinos Level  : 150\n\n[ORP]\nORP: Offline Raid Protection\nLa protección se activa despues de 30 minutos, cuando no exista jugadores conectados en una tribu.",
                 "imageurl": "https://i.imgur.com/sgvY3Sz.png"               
                 }
             },
@@ -43,11 +27,7 @@
                 "layout": 2,
                 "buttontext": "Shop",
                 "title1": "Ark Shop",
-                "text1": "Puedes visualizar el SHOP dentro del juego, presionando F2.
-                
-                Obtienes 10 Puntos por cada 10 minutos de conexión en el juego.
-                
-                Tambien puedes comprar Puntos en nuestra web, el link se encuentra en la parte inferior.",
+                "text1": "Puedes visualizar el SHOP dentro del juego, presionando F2. \n\nObtienes 10 Puntos por cada 10 minutos de conexión en el juego.\n\nTambien puedes comprar Puntos en nuestra web, el link se encuentra en la parte inferior.",
                 "imageurl": "https://i.imgur.com/sgvY3Sz.png"
                 }
             }
