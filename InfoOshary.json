@@ -5,11 +5,11 @@
             "HideIcon": false,
             "HideIconAfter": 30,
             "IconURL": "https://i.imgur.com/6PntT9S.png",
-            "DisableIconText": false,
+            "DisableIconText": true,
             "IconPosition": 0,
             "IconTextColor": 0,
             "OpenOnStart": true,
-            "OpenOnStartOnlyNewPlayers": true,
+            "OpenOnStartOnlyNewPlayers": false,
             "UpdateInterval": 12
         },
         "tabs": [
@@ -18,13 +18,13 @@
                 "layout": 1,
                 "buttontext": "Bienvenidos",
                 "title1": "Oshary Games - Ark Survival Acended",
-                "text1": "Les damos la bienvenida a nuestra servidor privado de Ark Survival Ascended.\n\n[RATES]\nFarming               : 5x\nTaming                : 10x\nBreeding              : 15x\nExp                   : 2x\n\n[CONFIG]\nPlayer per tribe      : 5\nAlliances             : 0\n Max Player Level      : 105\nMax Wild Dinos Level  : 150\n\n[ORP]\nORP: Offline Raid Protection\nLa protección se activa despues de 30 minutos, cuando no exista jugadores conectados en una tribu.",
+                "text1": "Les damos la bienvenida a nuestra servidor privado de Ark Survival Ascended.\n\n[RATES]\nFarming    : 5x\nTaming    : 10x\nBreeding    : 15x\nExp    : 2x\n\n[CONFIG]\nPlayer per tribe    :5\nAlliances    : 0\n Max Player Level    : 105\nMax Wild Dinos Level    : 150\n\n[ORP]\nORP: Offline Raid Protection\nLa protección se activa despues de 30 minutos, cuando no exista jugadores conectados en una tribu.",
                 "imageurl": "https://i.imgur.com/sgvY3Sz.png"               
                 }
             },
             {
             "tab2": {
-                "layout": 2,
+                "layout": 1,
                 "buttontext": "Shop",
                 "title1": "Ark Shop",
                 "text1": "Puedes visualizar el SHOP dentro del juego, presionando F2. \n\nObtienes 10 Puntos por cada 10 minutos de conexión en el juego.\n\nTambien puedes comprar Puntos en nuestra web, el link se encuentra en la parte inferior.",
